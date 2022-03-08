@@ -59,6 +59,7 @@ align-items: center;
 
 .dsmovie-contact-container img {
     margin-right: 10px;
+
 }
 
 #dsmovie-card-list {
@@ -67,13 +68,20 @@ align-items: center;
 
 .dsmovie-card {
 
-    width: 100%;
+    width: 260px;
+    height: 360px;
+    left: 663px;
+    top: 130px;
+
     
 
 }
 
 .dsmovie-card img {
-    width: 100%;
+    width: 260px;
+    height: 147px;
+    left: 0px;
+    top: 0px;
     border-radius: 8px 8px 0 0;
 }
 
